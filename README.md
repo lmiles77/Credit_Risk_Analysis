@@ -25,13 +25,13 @@ The techniques used are:
 
 *Accuracy Score: 0.677
 
-Precision - High Risk: 0.01
+*Precision - High Risk: 0.01
 
-Precision -Low Risk: 1.00
+*Precision -Low Risk: 1.00
 
-Recall -High Risk: 0.76
+*Recall -High Risk: 0.76
 
-Recall -Low Risk: 0.59
+*Recall -Low Risk: 0.59
 
 ### SMOTE Over Sampling
 
@@ -39,13 +39,13 @@ Recall -Low Risk: 0.59
 
 *Accuracy Score: 0.662
 
-Precision - High Risk: 0.01
+*Precision - High Risk: 0.01
 
-Precision -Low Risk: 1.00
+*Precision -Low Risk: 1.00
 
-Recall -High Risk: 0..63
+*Recall -High Risk: 0..63
 
-Recall -Low Risk: 0.69
+*Recall -Low Risk: 0.69
 
 ### Under Sampling
 
@@ -53,13 +53,13 @@ Recall -Low Risk: 0.69
 
 *Accuracy Score: 0.644
 
-Precision - High Risk: 0.01
+*Precision - High Risk: 0.01
 
-Precision -Low Risk: 1.00
+*Precision -Low Risk: 1.00
 
-Recall -High Risk: 0.64
+*Recall -High Risk: 0.64
 
-Recall -Low Risk: 0.54
+*Recall -Low Risk: 0.54
 
 
 ### Combination (Over Under) Sampling
@@ -68,13 +68,13 @@ Recall -Low Risk: 0.54
 
 *Accuracy Score: 0.644
 
-Precision - High Risk: 0.01
+*Precision - High Risk: 0.01
 
-Precision -Low Risk: 1.00
+*Precision -Low Risk: 1.00
 
-Recall -High Risk: 0.72
+*Recall -High Risk: 0.72
 
-Recall -Low Risk: 0.57
+*Recall -Low Risk: 0.57
 
 ### Balanced Random Forest Classifier
 
@@ -88,12 +88,13 @@ Recall -Low Risk: 0.57
 
 *Accuracy Score: 0.766
 
-Precision - High Risk: 0.03
+^Precision - High Risk: 0.03
 
-Precision -Low Risk: 1.00
+*Precision -Low Risk: 1.00
 
-Recall -High Risk: 0.66
-Recall -Low Risk: 0.87
+*Recall -High Risk: 0.66
+
+*Recall -Low Risk: 0.87
 
 
 
