@@ -5,17 +5,17 @@
 The purpose of this analysis is to demonstrate resampling models using machine learning imbalanced-learn and scikit-learn to predit Credit Risk.
 The techniques used are:
 
--Random Oversampling
+*Random Oversampling
 
--SMOTE (Synthetic Minority Oversampling Technique)
+*SMOTE (Synthetic Minority Oversampling Technique)
 
--ClusterCentroids (Undersampling)
+*ClusterCentroids (Undersampling)
 
--SMOTEENN (SMOTE and Edited Nearest Neighbors (ENN))
+*SMOTEENN (SMOTE and Edited Nearest Neighbors (ENN))
 
--Ensemble Classifiers Balanced Random Forest Classifier
+*Ensemble Classifiers Balanced Random Forest Classifier
 
--Easy Ensemble Classifier
+*Easy Ensemble Classifier
 
 ## Results
 
